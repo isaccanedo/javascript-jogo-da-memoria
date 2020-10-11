@@ -2,7 +2,7 @@
 Um jogo de correspondência de cartas baseado em navegador, conte com JavaScript sem nenhuma biblioteca externa! 
 Comece clicando em um cartão e você verá uma imagem, tente procurá-la nos outros cartões!
 
-## How to Play?
+## Como jogar?
 - Open the [Live Preview](https://elharony.github.io/FEND-Memory-Game/)
 - Click on any card and you will see an image
 - Keep searching for this image's peer in other cards
