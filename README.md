@@ -16,7 +16,7 @@ Então, é preciso ter boa memória!
 ## Recursos
 - Conte seus movimentos;
 - Cronômetro ao Vivo;
-- Rating System [ Based on your **Moves!** ]
+- Sistema de classificação [com base em seus ** movimentos! **];
 - Retry/Restart the game button
 
 ## Inside the game
