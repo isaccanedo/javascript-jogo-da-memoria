@@ -3,7 +3,7 @@ Um jogo de correspondência de cartas baseado em navegador, conte com JavaScript
 Comece clicando em um cartão e você verá uma imagem, tente procurá-la nos outros cartões!
 
 ## Como jogar?
-- Para jogar, basta clicar no link [Demonstração ao vivo](https://isaccanedo.github.io/javascript-jogo-da-memoria/)
+- Para jogar, [Clique aqui](https://isaccanedo.github.io/javascript-jogo-da-memoria/)
 - Clique em qualquer cartão e você verá uma imagem;
 - Continue procurando pelo par desta imagem em outros cartões;
 - Quando você encontrar o certo, os dois ficarão invertidos;
