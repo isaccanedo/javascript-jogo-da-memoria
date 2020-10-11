@@ -6,7 +6,7 @@ Comece clicando em um cartão e você verá uma imagem, tente procurá-la nos ou
 - Abra a [Demonstração ao vivo](https://isaccanedo.github.io/javascript-jogo-da-memoria/)
 - Clique em qualquer cartão e você verá uma imagem;
 - Continue procurando pelo par desta imagem em outros cartões;
-- When you find the right one, both of them will stay flipped
+- Quando você encontrar o certo, os dois ficarão invertidos;
 - If you didn't find it, both of them will be invisible again
 
 > Try to find the peers in as less moves as possible to get a better rate!
