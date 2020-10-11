@@ -7,7 +7,7 @@ Comece clicando em um cartão e você verá uma imagem, tente procurá-la nos ou
 - Clique em qualquer cartão e você verá uma imagem;
 - Continue procurando pelo par desta imagem em outros cartões;
 - Quando você encontrar o certo, os dois ficarão invertidos;
-- If you didn't find it, both of them will be invisible again
+- Se você não encontrou, os dois ficarão invisíveis novamente.
 
 > Try to find the peers in as less moves as possible to get a better rate!
 
