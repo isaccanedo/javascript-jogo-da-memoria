@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6, div, span, button, li {
     height: 80px;
     line-height: 90px;
     text-align: center;
-    background: #333;
+    background: #5ADBE0;
     color: #eee; }
     .cards li.disabled {
       pointer-events: none; }
