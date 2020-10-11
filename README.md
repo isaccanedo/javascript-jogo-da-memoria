@@ -15,7 +15,7 @@ Então, é preciso ter boa memória!
 
 ## Recursos
 - Conte seus movimentos;
-- Live Stopwatch
+- Cronômetro ao Vivo;
 - Rating System [ Based on your **Moves!** ]
 - Retry/Restart the game button
 
