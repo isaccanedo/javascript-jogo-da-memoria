@@ -1,6 +1,6 @@
 # Jogo da Memória
-A Browser-based Card Matching Game, rely on JavaScript without any external libraries!
-Start by clicking on a Card and you will see an Image, try to search for it in the other cards!
+Um jogo de correspondência de cartas baseado em navegador, conte com JavaScript sem nenhuma biblioteca externa! 
+Comece clicando em um cartão e você verá uma imagem, tente procurá-la nos outros cartões!
 
 ## How to Play?
 - Open the [Live Preview](https://elharony.github.io/FEND-Memory-Game/)
