@@ -9,7 +9,7 @@ Comece clicando em um cartão e você verá uma imagem, tente procurá-la nos ou
 - Quando você encontrar o certo, os dois ficarão invertidos;
 - Se você não encontrou, os dois ficarão invisíveis novamente.
 
-> Try to find the peers in as less moves as possible to get a better rate!
+> Tente encontrar os pares no menor número de movimentos possível para obter uma melhor taxa!
 
 So, you gotta have a good memory!
 
