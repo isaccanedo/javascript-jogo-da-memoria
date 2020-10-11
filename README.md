@@ -17,7 +17,7 @@ Então, é preciso ter boa memória!
 - Conte seus movimentos;
 - Cronômetro ao Vivo;
 - Sistema de classificação [com base em seus ** movimentos! **];
-- Retry/Restart the game button
+- Botão de tentar novamente / reiniciar o jogo.
 
 ## Inside the game
 ![memory-game-udacity-fend](https://user-images.githubusercontent.com/16986422/39929094-6f7cd7d4-5537-11e8-9ff8-4d0746535353.PNG)
