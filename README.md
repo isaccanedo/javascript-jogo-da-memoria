@@ -4,7 +4,7 @@ Comece clicando em um cartão e você verá uma imagem, tente procurá-la nos ou
 
 ## Como jogar?
 - Abra a [Demonstração ao vivo](https://isaccanedo.github.io/javascript-jogo-da-memoria/)
-- Click on any card and you will see an image
+- Clique em qualquer cartão e você verá uma imagem;
 - Keep searching for this image's peer in other cards
 - When you find the right one, both of them will stay flipped
 - If you didn't find it, both of them will be invisible again
