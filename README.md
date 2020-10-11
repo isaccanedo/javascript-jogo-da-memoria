@@ -13,7 +13,7 @@ Comece clicando em um cartão e você verá uma imagem, tente procurá-la nos ou
 
 Então, é preciso ter boa memória!
 
-## Features
+## Recursos
 - Count your moves
 - Live Stopwatch
 - Rating System [ Based on your **Moves!** ]
