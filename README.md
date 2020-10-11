@@ -14,7 +14,7 @@ Comece clicando em um cartão e você verá uma imagem, tente procurá-la nos ou
 Então, é preciso ter boa memória!
 
 ## Recursos
-- Count your moves
+- Conte seus movimentos;
 - Live Stopwatch
 - Rating System [ Based on your **Moves!** ]
 - Retry/Restart the game button
