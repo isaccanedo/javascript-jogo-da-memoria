@@ -11,7 +11,7 @@ Comece clicando em um cartão e você verá uma imagem, tente procurá-la nos ou
 
 > Tente encontrar os pares no menor número de movimentos possível para obter uma melhor taxa!
 
-So, you gotta have a good memory!
+Então, é preciso ter boa memória!
 
 ## Features
 - Count your moves
